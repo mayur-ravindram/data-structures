@@ -1,2 +1,1 @@
-# data-structures
-Practice repo for all kind of data structures
+# 💪 Getting 0.1% better at coding every fucking day!
